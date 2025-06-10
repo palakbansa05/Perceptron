@@ -8,4 +8,4 @@ Lightweight, easy to use, and affordable
 Benefits individuals and accessibility programs.
 Continuously improved through feedback and
 partnership.
-Supports multi-lingual voice outpu
+Supports multi-lingual voice output(English, French, German, Spanish)
